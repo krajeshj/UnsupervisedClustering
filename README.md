@@ -21,15 +21,15 @@ File|Description
 
 Directory|Description
 ---------|---------------------------------------------------------------------------------------------------
-data| Contains the  datasets in 1 excel workbook and 2 worksheets
-code| contains the  python note book for Clustering  
+[data](https://github.com/krajeshj/UnsupervisedClustering/tree/master/data)| Contains the  datasets in 1 excel workbook and 2 worksheets
+[code](https://github.com/krajeshj/UnsupervisedClustering/tree/master/code)| contains the  python note book for Clustering  
  
  
 
 ### References
 
-1.  Customer Segmentation in python <http://blog.yhat.com/posts/customer-segmentation-using-python.html>
-2.  Practical Machine Learning , Dipanjan S.  et al <https://github.com/dipanjanS/practical-machine-learning-with-python>
+1. Customer Segmentation in python <http://blog.yhat.com/posts/customer-segmentation-using-python.html>
+2. Practical Machine Learning , Dipanjan S.  et al <https://github.com/dipanjanS/practical-machine-learning-with-python>
 3.	An Introduction to Statistical Learning, Gareth James et al
 
 
