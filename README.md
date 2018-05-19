@@ -1,7 +1,10 @@
 # UnsupervisedClustering
 We're trying to learn more about how  customers behave, and  can use their behavior (whether or not they purchased something based on an offer) as a way to group similar minded customers together. We then study those groups to look for patterns and trends which can help us formulate future offers.
-The first dataset contains information about each offer such as the month it is in effect and several attributes about the wine that the offer refers to: the variety, minimum quantity, discount, country of origin and whether or not it is past peak. The second dataset in the second worksheet contains transactional data -- which offer each customer responded to
+
+The first dataset contains information about each offer such as the month it is in effect and several attributes about the wine that the offer refers to: the variety, minimum quantity, discount, country of origin and whether or not it is past peak. The second dataset in the second worksheet contains transactional data -- which offer each customer responded to.
+
 Several techniques are used to identify the right number of Sgments all the Custumers can be grouped to.
+
 Kmeans Clustering algorith is used for Clustering.
 The Clusters are are also visualized by Principal Components Analysis.
 Finally several metrics to evaluate alternative Clustreing Methods are used.
